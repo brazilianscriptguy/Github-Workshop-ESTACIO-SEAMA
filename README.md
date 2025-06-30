@@ -1,36 +1,60 @@
-# Hi there 👋 I'm Luiz Hamilton Roberto da Silva 
+<div>
+  <h1>👋 Hi there! I'm Luiz Hamilton Roberto da Silva</h1>
 
-### 👨‍💻 About Me:
-- 💻 **IT Specialist** with expertise in **Cyber Defense**, **Windows Server Administration**, and **IT Service Management (ITSM)**
-- 📜 Certified in **IT Governance, Digital Forensics, and Data Protection**
-- 🔧 Developer of scripts for **PowerShell**, **VBScript**, and **Windows 10/11 Workstation Automation**
-- 🎓 Master's in **Computer Science** (Computer Engineering)
-- 🛠️ **Script Developer** for Windows Server management, compliance automation, and PowerShell tools for IT environments
+  <h2>👨‍💻 About Me</h2>
+  <ul>
+    <li>💻 <strong>IT Specialist</strong> with expertise in <strong>Cyber Defense</strong>, <strong>Windows Server Administration</strong>, and <strong>IT Service Management (ITSM)</strong></li>
+    <li>📜 Certified in <strong>IT Governance</strong>, <strong>Digital Forensics</strong>, and <strong>Data Protection</strong></li>
+    <li>🔧 Developer of automation tools using <strong>PowerShell</strong>, <strong>VBScript</strong>, and <strong>Batch scripts</strong> for Windows 10/11</li>
+    <li>🎓 Master's Degree in <strong>Computer Science</strong> (Computer Engineering)</li>
+    <li>🛠️ Focused on <strong>compliance automation</strong>, <strong>Active Directory scripting</strong>, and <strong>secure infrastructure operations</strong></li>
+  </ul>
 
-### 🛠 Skills and Technologies:
-- **Operating Systems:** Windows Server, Red Hat Enterprise Linux
-- **Scripting Languages:** PowerShell, VBScript, Batch
-- **Network and Security:** Active Directory, DNS, DFS, VPN, ADCS, Firewall (Netfilter/Iptables)
-- **ITSM Tools:** WSUS, WDS, Remote Desktop Services (RDS), Group Policy (GPO)
-- **Digital Forensics & Security:** Log Auditing, Security Evaluation, Data Protection, Risk Management
-- **Cloud and Storage:** OneDrive, Office 365, Blade Servers
+  <h2>🛠 Skills & Technologies</h2>
+  <ul>
+    <li><strong>Operating Systems:</strong> Windows Server, Red Hat Enterprise Linux</li>
+    <li><strong>Scripting:</strong> PowerShell, VBScript, Batch</li>
+    <li><strong>Network & Security:</strong> Active Directory (AD), DNS, DFS, VPN, ADCS, Netfilter/Iptables Firewall</li>
+    <li><strong>ITSM Tools:</strong> WSUS, WDS, Remote Desktop Services (RDS), Group Policy (GPO)</li>
+    <li><strong>Digital Forensics:</strong> Log auditing, security assessments, data loss prevention, risk analysis</li>
+    <li><strong>Cloud & Storage:</strong> Office 365, OneDrive, Blade Server Management</li>
+  </ul>
 
-### 📂 Key Projects:
-- **PowerShell ToolSet for Windows Server Administration**: Custom scripts for automating and managing Windows Server environments.
-- **AD Management Scripts**: Tools for managing Active Directory accounts, computers, and groups efficiently.
-- **IT Compliance Management**: Scripts for automating the removal of obsolete software and enforcing compliance on Windows workstations.
+  <h2>📂 Key Projects</h2>
+  <ul>
+    <li>🔧 <strong>PowerShell ToolSet for Windows Server</strong><br>
+      Custom-built automation scripts to manage, secure, and optimize Windows Server environments.
+    </li>
+    <li>👥 <strong>Active Directory Management Scripts</strong><br>
+      Tools to automate provisioning, password resets, OU structure creation, and compliance enforcement.
+    </li>
+    <li>✅ <strong>IT Compliance Enforcement Tools</strong><br>
+      Automated solutions to detect and remove obsolete or non-compliant software from workstations.
+    </li>
+  </ul>
 
-### ⚙️ Repositories:
-1. **ITSM Automation Scripts** - [Explore](https://github.com/brazilianscriptguy/)
-   - 42 tools for daily Windows Server administration tasks
-   - 36 tools for compliance and ITSM management of Windows 10 and 11 workstations
+  <h2>📦 Repositories</h2>
+  <ol>
+    <li>
+      🔹 <strong>ITSM Automation Scripts</strong> — 
+      <a href="https://github.com/brazilianscriptguy/" target="_blank">Explore the repo</a><br>
+      42+ tools for daily server administration tasks<br>
+      36+ scripts for ITSM and compliance management in Windows 10/11 environments
+    </li>
+    <li>
+      🔹 <strong>Custom PowerShell & VBScript Tools</strong><br>
+      Scripts for managing Active Directory, network services, and automating system configurations.
+    </li>
+  </ol>
 
-2. **Custom PowerShell Scripts** - Manage Active Directory, network services, and system configurations with a wide range of tools built for automation.
+  <h2>📫 Contact</h2>
+  <ul>
+    <li>🔗 GitHub: <a href="https://github.com/brazilianscriptguy/" target="_blank">@brazilianscriptguy</a></li>
+    <li>❤️ Patreon: <a href="https://patreon.com/brazilianscriptguy" target="_blank">Support my work</a></li>
+  </ul>
 
-### 📫 How to reach me:
-- GitHub: [brazilianscriptguy](https://github.com/brazilianscriptguy/)
-- Patreon: [brazilianscriptguy](https://patreon.com/brazilianscriptguy/)
-
----
-
-“Automate Everything” - **Let's make IT work smarter, not harder!**
+  <hr />
+  <blockquote>
+    <p>“Automate Everything” — Let’s make IT work <strong>smarter</strong>, not harder! 🧠💻</p>
+  </blockquote>
+</div>
